@@ -10,7 +10,7 @@
 	<name>Assignment 2 Root Project</name>
 
 	<properties>
-		<spring.version>3.2.3.RELEASE</spring.version>
+		<spring.version>4.0.6.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<jdk.version>1.7</jdk.version>
 		<hibernate.version>3.5.1-Final</hibernate.version>
